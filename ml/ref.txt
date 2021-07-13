@@ -1,0 +1,2 @@
+# Random state (Pseudo-random number) in Scikit learn?
+# https://stackoverflow.com/questions/28064634/random-state-pseudo-random-number-in-scikit-learn
