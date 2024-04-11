@@ -1,0 +1,2 @@
+# To activate conda env in terminal type: conda activate env-name, If don't type env-name it will use default one.
+# Manage envs ref: https://docs.conda.io/projects/conda/en/4.6.0/user-guide/tasks/manage-environments.html
