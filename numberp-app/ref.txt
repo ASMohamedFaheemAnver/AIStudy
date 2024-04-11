@@ -1,0 +1,7 @@
+# Use this tool for labeling
+# https://github.com/HumanSignal/labelImg
+-> pip3 install labelImg -> labelImg
+-> https://github.com/HumanSignal/labelImg/issues/886
+
+# Explore this if have time
+# https://labelstud.io/ -> pip install -U label-studio -> label-studio
