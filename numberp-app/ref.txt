@@ -5,3 +5,6 @@
 
 # Explore this if have time
 # https://labelstud.io/ -> pip install -U label-studio -> label-studio
+
+# Draft7Validator(TyperError: create.<locals>.Validator.__init__() got an unexpected keyword argument 'registry'
+# https://github.com/jupyter/jupyter_core/issues/369#issuecomment-1922118553
