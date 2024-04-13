@@ -8,3 +8,6 @@
 
 # Draft7Validator(TyperError: create.<locals>.Validator.__init__() got an unexpected keyword argument 'registry'
 # https://github.com/jupyter/jupyter_core/issues/369#issuecomment-1922118553
+
+# https://github.com/weitsunglin/license_plate_detection.git
+# tensorboard --logdir="object_detection"
