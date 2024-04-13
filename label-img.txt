@@ -1,0 +1,7 @@
+# Use conda to run labelImg
+-> Enable conda by running conda activate
+conda install pyqt=5
+conda install -c anaconda lxml
+pyrcc5 -o libs/resources.py resources.qrc
+python labelImg.py
+python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
